@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+
+.iframe-container {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 50vh; /* Or set a specific height for the container */
+    width: 100%;
+}
